@@ -1,0 +1,110 @@
+@media only screen and (max-width: 1366px) {
+	.aw-list .icon{
+        margin: 0 135px;
+    }
+    footer .icon ul{
+        padding: 0 350px;
+    }
+}
+@media only screen and (max-width: 1280px) {
+	
+}
+@media only screen and (max-width: 1024px) {
+    .header {
+        background: url(/img/image.png) no-repeat;
+        background-repeat: round;
+    }
+    footer .icon ul{
+        padding: 0 300px;
+    }
+    .stylish {
+        height: 100%;
+        background: url(/img/u25_state0.png) no-repeat;
+        background-repeat: round;
+    }
+}
+@media only screen and (max-width: 991px) {
+	.header-lg img{
+        width: 150px;
+    }
+    .header-tt{
+        font-size: 25px;
+    }
+    .hd-desc{
+        font-size: 18px;
+    }
+    #exTab .nav.nav-tabs{
+        text-align: center;
+    }
+    .stan-img,
+    .stan-desc,
+    .sub-section,
+    .sub-img{
+        flex: 100% !important;
+    }
+    .aw-list .icon {
+        margin: 0px 65px;
+    }
+    .aw-list h2{
+        font-size: 25px;
+    }
+    footer .icon ul {
+        padding: 0 200px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .tab-desc,.tab-img{
+        flex: 100% !important;
+        width: 100% !important;
+    }
+    .Features{
+        overflow: hidden;
+    }
+    .tab-img {
+        justify-content: center;
+        margin-top: 20px !important;
+    }
+	
+}
+@media only screen and (max-width: 736px){
+    .header .header-l{
+        display: none;
+    }
+    .header .header-r{
+        width: 100%;
+    }
+    .aw-list .icon {
+        margin: 0px 35px;
+    }
+    footer .icon ul {
+        padding: 0 100px;
+    }
+    .form-ct .ip-left{
+        padding-top: 20px;
+        padding-left: 0;
+        width: 100%;
+    }
+    .form-ct .ip-right {
+        padding-left: 0;
+        width: 100%;
+        padding-right: 0;
+    }
+}
+@media only screen and (max-width: 668px) {
+	
+}
+@media only screen and (max-width: 601px) {
+	
+}
+@media only screen and (max-width: 480px) {
+	
+}
+@media only screen and (max-width: 414px) {
+	
+}
+@media only screen and (max-width: 375px) {
+	
+}
+@media only screen and (max-width: 320px) {
+	
+}
